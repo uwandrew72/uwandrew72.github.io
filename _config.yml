@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:uwandrew72@gmail.com"
+      # url: "mailto:uwandrew72@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://uwandrew72.github.io"
