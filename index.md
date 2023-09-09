@@ -7,6 +7,6 @@ toc: true
 
 This is the home page.
 
-# Education
+# Educations
 
 # Projects

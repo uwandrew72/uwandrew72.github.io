@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Projects"
-    url: /projects
+    url: /#Projects
   - title: "Educations"
-    url: /educations
+    url: /#Educations
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

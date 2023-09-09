@@ -1,7 +1,6 @@
 ---
 author_profile: true
 layout: single
-permalink: /projects
 ---
 
 This is the project page
