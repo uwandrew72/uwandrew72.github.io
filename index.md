@@ -31,5 +31,7 @@ Bachelor of Engineering in Electrical Engineering
 *September 2017* - *June 2021*
 
 # Skills
+## Programming languages
+* Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 
 # Projects
