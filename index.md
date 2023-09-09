@@ -2,6 +2,7 @@
 author_profile: true
 layout: single
 permalink: /
+toc: true
 ---
 I'm a current UW graduate student studying software development and computer network in [MSEE](https://www.ece.uw.edu/academics/grad/) program at [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/).
 
@@ -36,8 +37,12 @@ Bachelor of Engineering in Electrical Engineering \
 * <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a> Java
 * <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a> C++/C
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a> JavaScript
+
+### Framework
+
 ### Database
 * <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a> MySQL
 * <a href="https://www.sqlite.org/index.html" title="SQLite"><img src="/assets/images/sqlite.svg" alt="SQLite" width="21px" height="21px"></a> SQLite
 * <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a> PostgreSQL
+
 # Projects
