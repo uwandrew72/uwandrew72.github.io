@@ -16,7 +16,7 @@ Interested in:
 Actively seeking full-time software development positions for 2024. If you are interested, please feel free to contact me or check out my resume [here](/assets/files/andrew-zhang-0902.pdf)
 
 ## Education
-**University of Washington** - *Seattle, US* <br />
+[**University of Washington**](https://www.washington.edu/) - *Seattle, US* <br />
 Master of Science in Electrical Engineering <br />
 *September 2022* - *June 2024* <br />
 Relevant Coursework:
