@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/uwandrew72/"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/files/andrew-zhang-0902.pdf"
 
 # Site Footer
 footer:
