@@ -19,6 +19,11 @@ Actively seeking full-time software development positions for 2024. If you are i
 [**University of Washington**](https://www.washington.edu/) - *Seattle, US* <br />
 Master of Science in Electrical Engineering <br />
 *September 2022* - *June 2024* <br /><br />
+
+[**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/) - *Shanghai, China* <br />
+Bachelor of Engineering in Electrical Engineering <br />
+*September 2017* - *June 2021* <br /><br />
+
 Relevant Coursework:
 * [CSE 417 Algorithms And Computational Complexity](https://courses.cs.washington.edu/courses/cse417/22au/)
 * [CSE 373 Data Structures And Algorithms](https://courses.cs.washington.edu/courses/cse373/22au/)
@@ -26,11 +31,6 @@ Relevant Coursework:
 * [CSE 414 Introduction To Database Systems](https://sites.google.com/cs.washington.edu/cse414-23wi)
 * [CSE 333 Systems Programming](https://courses.cs.washington.edu/courses/cse333/23sp/)
 * [CSE 154 Web Programming](https://courses.cs.washington.edu/courses/cse154/23sp/)
-<br />
-
-[**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/) - *Shanghai, China* <br />
-Bachelor of Engineering in Electrical Engineering <br />
-*September 2017* - *June 2021*
 
 ## Skills
 ### Programming languages
