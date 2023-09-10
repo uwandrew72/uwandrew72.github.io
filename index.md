@@ -35,12 +35,12 @@ Relevant Coursework:
 * [CSE 154 Web Programming](https://courses.cs.washington.edu/courses/cse154/23sp/)
 
 ## Projects
-* [**E-commerce site for digital cameras and accessories**](https://github.com/uwandrew72/E-commerce-Site) in JavaScript [Learn More](e-commerce-site-for-digital-cameras-and-accessories)
-* [**Peer-to-peer (P2P) File Sharing System**](https://github.com/uwandrew72/p2pFileSharing) in Java [Learn More](peer-to-peer-p2p-file-sharing-system)
+* [**E-commerce site for digital cameras and accessories**](https://github.com/uwandrew72/E-commerce-Site) in JavaScript [Learn More](/projects#e-commerce-site-for-digital-cameras-and-accessories)
+* [**Peer-to-peer (P2P) File Sharing System**](https://github.com/uwandrew72/p2pFileSharing) in Java [Learn More](/projects#peer-to-peer-p2p-file-sharing-system)
 * **Rapid Response Search Engine** in C++/C [Learn More](/projects#rapid-response-search-engine)
-* **Malware Testing Sandbox** in Python [Learn More](malware-testing-sandbox)
-* **Appointment Reservation System** in Java [Learn More](appointment-reservation-system)
-* **Husky Maps** in Java [Learn More](husky-maps)
+* **Malware Testing Sandbox** in Python [Learn More](/projects#malware-testing-sandbox)
+* **Appointment Reservation System** in Java [Learn More](/projects#appointment-reservation-system)
+* **Husky Maps** in Java [Learn More](/projects#husky-maps)
 
 ## Skills
 ### Programming languages
