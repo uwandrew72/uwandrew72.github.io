@@ -2,7 +2,7 @@
 author_profile: true
 layout: single
 permalink: /
-toc: true
+classes: wide
 ---
 I'm a current UW graduate student studying software development and computer network in [MSEE](https://www.ece.uw.edu/academics/grad/) program at [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/).
 
