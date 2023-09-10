@@ -67,7 +67,7 @@ Relevant Coursework:
 ## Projects
 * [**E-commerce site for digital cameras and accessories**](https://github.com/uwandrew72/E-commerce-Site) in JavaScript
 * [**Peer-to-peer (P2P) File Sharing System**](https://github.com/uwandrew72/p2pFileSharing) in Java
-* **Rapid Response Search Engine** in C++/C
+* **Rapid Response Search Engine** in C++/C [Learn More](/projects#rapid-response-search-engine)
 * **Malware Testing Sandbox** in Python
 * **Appointment Reservation System** in Java
 * **Husky Maps** in Java

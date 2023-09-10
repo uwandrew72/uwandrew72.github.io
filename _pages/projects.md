@@ -2,8 +2,10 @@
 author_profile: true
 layout: single
 permalink: /projects
-classes: wide
+toc: true
+# classes: wide
 ---
+# Projects
 
 ## E-commerce site for digital cameras and accessories
 
