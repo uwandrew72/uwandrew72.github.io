@@ -16,10 +16,12 @@ Interested in:
 Actively seeking full-time software development positions for 2024. If you are interested, please feel free to contact me or check out my resume [here](/assets/files/andrew-zhang-0902.pdf)
 
 ## Education
+<img src="/assets/images/uw.png" alt="uw" width="32px" height="32px">
 [**University of Washington**](https://www.washington.edu/) - *Seattle, US* <br />
 Master of Science in Electrical Engineering <br />
 *September 2022* - *June 2024* <br /><br />
 
+<img src="/assets/images/sjtu.png" alt="sjtu" width="32px" height="32px">
 [**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/) - *Shanghai, China* <br />
 Bachelor of Engineering in Electrical Engineering <br />
 *September 2017* - *June 2021* <br /><br />
