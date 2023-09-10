@@ -65,3 +65,7 @@ Relevant Coursework:
 * <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="30px" height="30px"></a>&nbsp; PostgreSQL
 
 ## Projects
+* [**E-commerce site for digital cameras and accessories**](https://github.com/uwandrew72/E-commerce-Site) in JavaScript
+* [**Peer-to-peer (P2P) File Sharing System**](https://github.com/uwandrew72/p2pFileSharing) in Java
+* **Rapid Response Search Engine** in C++/C
+* **Malware Testing Sandbox** in Python
