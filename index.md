@@ -13,7 +13,7 @@ Interested in:
 * 📸 Photography
 * 🎮 Video games
 
-Actively seeking full-time software development positions for 2024. If you are interested, please feel free to contact me or check out my resume [here](/assets/files/andrew-zhang-0902.pdf)
+Actively seeking full-time software development positions for 2024. If you are interested, please feel free to contact me or check out my resume [here](/assets/files/andrew-zhang-0902.pdf).
 
 ## Education
 <img src="/assets/images/uw.png" alt="uw" width="32px" height="32px">
@@ -69,3 +69,5 @@ Relevant Coursework:
 * [**Peer-to-peer (P2P) File Sharing System**](https://github.com/uwandrew72/p2pFileSharing) in Java
 * **Rapid Response Search Engine** in C++/C
 * **Malware Testing Sandbox** in Python
+* **Appointment Reservation System** in Java
+* **Husky Maps** in Java
