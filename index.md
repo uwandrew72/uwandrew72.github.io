@@ -34,23 +34,32 @@ Bachelor of Engineering in Electrical Engineering <br />
 
 ## Skills
 ### Programming languages
-* <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="26px" height="26px"></a>&nbsp;&nbsp;Python
-* <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="26px" height="26px"></a>&nbsp;&nbsp;Java
-* <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="26px" height="26px"></a>&nbsp;&nbsp;C++/C
-* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="26px" height="26px"></a>&nbsp;&nbsp;JavaScript
-* <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="26px" height="26px"></a> HTML5
-* <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="26px" height="26px"></a> CSS3
-* <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="/assets/images/bash.svg" alt="Bash" width="26px" height="26px"></a> Bash
-* <a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="/assets/images/sql.png" alt="Bash" width="26px" height="26px"></a> SQL
+* <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>&nbsp; Python
+* <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a>&nbsp; Java
+* <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="30px" height="30px"></a>&nbsp; C++/C
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px"></a>&nbsp; JavaScript
+* <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="30px"></a>&nbsp; HTML5
+* <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="30px"></a>&nbsp; CSS3
+* <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="/assets/images/bash.svg" alt="Bash" width="30px" height="30px"></a>&nbsp; Bash
+* <a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="/assets/images/sql.png" alt="SQL" width="30px" height="30px"></a>&nbsp; SQL
+
+### Deployment tools
+* <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px"></a>&nbsp; Git
+* <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="30px" height="30px"></a>&nbsp; Docker
+* <a href="https://www.linux.org/" title="Linux"><img src="/assets/images/linux.png" alt="Linux" width="30px" height="30px"></a>&nbsp; Linux
+* <a href="https://www.nginx.com/" title="Nginx"><img src="/assets/images/nginx.svg" alt="Nginx" width="30px" height="30px"></a>&nbsp; Nginx
+* <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="30px" height="30px"></a>&nbsp; Microsoft Azure
 
 ### Frameworks
-* <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="26px" height="26px"></a> Node.js
-* <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="26px" height="26px"></a> Express
+* <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="30px" height="30px"></a>&nbsp; Node.js
+* <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="30px" height="30px"></a>&nbsp; Express
+* <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px"></a>&nbsp; React
+* <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="/assets/images/fastapi.svg" alt="FastAPI" width="30px" height="30px"></a>&nbsp; FastAPI
 
 
 ### Database
-* <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="26px" height="26px"></a>&nbsp;&nbsp;MySQL
-* <a href="https://www.sqlite.org/index.html" title="SQLite"><img src="/assets/images/sqlite.svg" alt="SQLite" width="26px" height="26px"></a>&nbsp;&nbsp;SQLite
-* <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="26px" height="26px"></a>&nbsp;&nbsp;PostgreSQL
+* <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"></a>&nbsp; MySQL
+* <a href="https://www.sqlite.org/index.html" title="SQLite"><img src="/assets/images/sqlite.svg" alt="SQLite" width="30px" height="30px"></a>&nbsp; SQLite
+* <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="30px" height="30px"></a>&nbsp; PostgreSQL
 
 ## Projects
