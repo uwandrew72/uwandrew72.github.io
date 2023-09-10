@@ -65,9 +65,9 @@ Relevant Coursework:
 * <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="30px" height="30px"></a>&nbsp; PostgreSQL
 
 ## Projects
-* [**E-commerce site for digital cameras and accessories**](https://github.com/uwandrew72/E-commerce-Site) in JavaScript
-* [**Peer-to-peer (P2P) File Sharing System**](https://github.com/uwandrew72/p2pFileSharing) in Java
+* [**E-commerce site for digital cameras and accessories**](https://github.com/uwandrew72/E-commerce-Site) in JavaScript [Learn More](e-commerce-site-for-digital-cameras-and-accessories)
+* [**Peer-to-peer (P2P) File Sharing System**](https://github.com/uwandrew72/p2pFileSharing) in Java [Learn More](peer-to-peer-p2p-file-sharing-system)
 * **Rapid Response Search Engine** in C++/C [Learn More](/projects#rapid-response-search-engine)
-* **Malware Testing Sandbox** in Python
-* **Appointment Reservation System** in Java
-* **Husky Maps** in Java
+* **Malware Testing Sandbox** in Python [Learn More](malware-testing-sandbox)
+* **Appointment Reservation System** in Java [Learn More](appointment-reservation-system)
+* **Husky Maps** in Java [Learn More](husky-maps)
