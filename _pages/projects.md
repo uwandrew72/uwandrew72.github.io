@@ -8,8 +8,8 @@ classes: wide
 
 ## E-commerce site for digital cameras and accessories
 
-place holder for this project
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+main page
+<img src="assets/images/e-site/e-site-main.gif" width="100px" height="100px" />
 
 ## Peer-to-peer (P2P) File Sharing System
 
