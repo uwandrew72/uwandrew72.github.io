@@ -9,7 +9,7 @@ classes: wide
 ## E-commerce site for digital cameras and accessories
 
 <a href="/assets/video_demos/e-site-demo.mp4" target="eSiteIframe">Start demo!(Please be patient while the video loads)</a>
-<iframe name="eSiteIframe" src="about:blank" frameborder="0" allowfullscreen style="max-width: 100%; max-height: 100%; width: 100%; height: 100%;">
+<iframe name="eSiteIframe" src="about:blank" frameborder="0" allowfullscreen style="max-width: 100%; width: 100%; padding-top: 56.25%;">
 
 ## Peer-to-peer (P2P) File Sharing System
 
