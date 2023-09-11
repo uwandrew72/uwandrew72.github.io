@@ -9,7 +9,7 @@ classes: wide
 ## E-commerce site for digital cameras and accessories
 
 main page <br />
-<img src="assets/images/e-site/e-site-main.gif" />
+<img src="assets/images/e-site/e-site-main.gif" style="max-width: 100%;height: auto;" />
 
 ## Peer-to-peer (P2P) File Sharing System
 
