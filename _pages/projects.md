@@ -8,30 +8,24 @@ classes: wide
 
 ## E-commerce site for digital cameras and accessories
 
-main page <br />
-<img src="assets/images/e-site/e-site-main.gif" style="max-width: 100%;height: auto;" />
+<img src="assets/images/e-site/e-site-main.gif" style="max-width: 100%; height: 100%; width: auto;" />
 
 ## Peer-to-peer (P2P) File Sharing System
 
-place holder for this project
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+working
 
 ## Rapid Response Search Engine
 
-place holder for this project
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+working
 
 ## Malware Testing Sandbox
 
-place holder for this project
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+working
 
 ## Appointment Reservation System
 
-place holder for this project
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+working
 
 ## Husky Maps
 
-place holder for this project
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+working
