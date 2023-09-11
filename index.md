@@ -35,8 +35,8 @@ Relevant Coursework:
 * [CSE 154 Web Programming](https://courses.cs.washington.edu/courses/cse154/23sp/)
 
 ## Projects
-* **E-commerce site for digital cameras and accessories** in JavaScript [Detail & Demo](/projects#e-commerce-site-for-digital-cameras-and-accessories) [Source Code](https://github.com/uwandrew72/E-commerce-Site)
-* **Peer-to-peer (P2P) File Sharing System** in Java [Detail & Demo](/projects#peer-to-peer-p2p-file-sharing-system) [Source Code](https://github.com/uwandrew72/p2pFileSharing)
+* **E-commerce site for digital cameras and accessories** in JavaScript [Detail & Demo](/projects#e-commerce-site-for-digital-cameras-and-accessories) | [Source Code](https://github.com/uwandrew72/E-commerce-Site)
+* **Peer-to-peer (P2P) File Sharing System** in Java [Detail & Demo](/projects#peer-to-peer-p2p-file-sharing-system) | [Source Code](https://github.com/uwandrew72/p2pFileSharing)
 * **Rapid Response Search Engine** in C++/C [Detail & Demo](/projects#rapid-response-search-engine)
 * **Malware Testing Sandbox** in Python [Detail & Demo](/projects#malware-testing-sandbox)
 * **Appointment Reservation System** in Java [Detail & Demo](/projects#appointment-reservation-system)
