@@ -35,11 +35,16 @@ Relevant Coursework:
 * [CSE 154 Web Programming](https://courses.cs.washington.edu/courses/cse154/23sp/)
 
 ## Projects
-* **E-commerce site for digital cameras and accessories** in JavaScript: A full-featured e-commerce site for digital cameras and their accessories.  [Learn More](/projects#e-commerce-site-for-digital-cameras-and-accessories) <br /> Source code -> <a href="https://github.com/uwandrew72/E-commerce-Site" title="e-comm"><img src="/assets/images/github-mark.png" alt="github" width="30px" height="30px"></a>
-* **Peer-to-peer (P2P) File Sharing System** in Java [Detail & Demo](/projects#peer-to-peer-p2p-file-sharing-system) | [Source Code](https://github.com/uwandrew72/p2pFileSharing)
+* **E-commerce site for digital cameras and accessories** in JavaScript: A full-featured e-commerce site for digital cameras and their accessories.  [Learn More](/projects#e-commerce-site-for-digital-cameras-and-accessories) <br /> *Source code* -> <a href="https://github.com/uwandrew72/E-commerce-Site" title="e-comm"><img src="/assets/images/github-mark.png" alt="e-comm" width="30px" height="30px"></a>
+
+* **Peer-to-peer (P2P) File Sharing System** in Java: A P2P file sharing system that can explore network nodes to find desired resources and supports streaming. [Learn More](/projects#peer-to-peer-p2p-file-sharing-system) <br /> *Source code* -> <a href="https://github.com/uwandrew72/p2pFileSharing" title="ptop"><img src="/assets/images/github-mark.png" alt="github" width="30px" height="30px"></a>
+
 * **Rapid Response Search Engine** in C++/C [Detail & Demo](/projects#rapid-response-search-engine)
+
 * **Malware Testing Sandbox** in Python [Detail & Demo](/projects#malware-testing-sandbox)
+
 * **Appointment Reservation System** in Java [Detail & Demo](/projects#appointment-reservation-system)
+
 * **Husky Maps** in Java [Detail & Demo](/projects#husky-maps)
 
 ## Skills
