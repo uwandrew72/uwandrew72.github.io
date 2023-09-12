@@ -39,13 +39,13 @@ Relevant Coursework:
 
 * **Peer-to-peer (P2P) File Sharing System** in Java: A P2P file sharing system that can explore network nodes to find desired resources and supports streaming. [Learn More](/projects#peer-to-peer-p2p-file-sharing-system) <br /> *Source code* -> <a href="https://github.com/uwandrew72/p2pFileSharing" title="ptop"><img src="/assets/images/github-mark.png" alt="github" width="30px" height="30px"></a>
 
-* **Rapid Response Search Engine** in C++/C [Detail & Demo](/projects#rapid-response-search-engine)
+* **Rapid Response Search Engine** in C++/C [Learn More](/projects#rapid-response-search-engine)
 
-* **Malware Testing Sandbox** in Python [Detail & Demo](/projects#malware-testing-sandbox)
+* **Malware Testing Sandbox** in Python [Learn More](/projects#malware-testing-sandbox)
 
-* **Appointment Reservation System** in Java [Detail & Demo](/projects#appointment-reservation-system)
+* **Appointment Reservation System** in Java [Learn More](/projects#appointment-reservation-system)
 
-* **Husky Maps** in Java [Detail & Demo](/projects#husky-maps)
+* **Husky Maps** in Java [Learn More](/projects#husky-maps)
 
 ## Skills
 ### Programming languages
