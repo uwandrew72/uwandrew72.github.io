@@ -13,7 +13,7 @@ Interested in:
 * 📸 Photography
 * 🎮 Video games
 
-Actively seeking full-time software development positions for 2024. If you are interested, please feel free to contact me or check out my resume [here](/assets/files/andrew-zhang.pdf).
+Actively seeking full-time software development positions for 2024. If you are interested, please feel free to contact me or check out my resume [here](/assets/files/andrew-zhang-0927.pdf).
 
 ## Education
 <img src="/assets/images/uw.png" alt="uw" width="32px" height="32px">
