@@ -2,8 +2,8 @@
 main:
   - title: "Projects"
     url: /projects
-  # - title: "Educations"
-  #   url: /#Education
+  - title: "Blogs"
+    url: /blog.html
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
