@@ -34,18 +34,24 @@ Relevant Coursework:
 * [CSE 333 Systems Programming](https://courses.cs.washington.edu/courses/cse333/23sp/)
 * [CSE 154 Web Programming](https://courses.cs.washington.edu/courses/cse154/23sp/)
 
+## Work experience
+* [**Hugsi**](https://www.hugsi.com/) *Software Engineer, Internship* : Developing backend APIs using Flutter framework & Dart programming language, building connection with Firebase database, and integrating ChatGPT into recommendation systems [Learn More](/hugsi)
+
+* [**BECU**](https://www.becu.org/) *Software Engineer, Capstone Program* : Developed a malware testing sandbox in Python [Learn More](/becu)
+
+
 ## Projects
-* **E-commerce site for digital cameras and accessories** in JavaScript: A full-featured e-commerce site for digital cameras and their accessories.  [Learn More](/projects#e-commerce-site-for-digital-cameras-and-accessories) <br /> *Source code* -> <a href="https://github.com/uwandrew72/E-commerce-Site" title="e-comm"><img src="/assets/images/github-mark.png" alt="e-comm" width="30px" height="30px"></a>
+* **E-commerce site for digital cameras and accessories** in JavaScript: A full-featured e-commerce site for digital cameras and their accessories.  [Learn More](/e-commerce) <br /> *Source code* -> <a href="https://github.com/uwandrew72/E-commerce-Site" title="e-comm"><img src="/assets/images/github-mark.png" alt="e-comm" width="30px" height="30px"></a>
 
-* **Peer-to-peer (P2P) File Sharing System** in Java: A P2P file sharing system that can explore network nodes to find desired resources and supports streaming. [Learn More](/projects#peer-to-peer-p2p-file-sharing-system) <br /> *Source code* -> <a href="https://github.com/uwandrew72/p2pFileSharing" title="ptop"><img src="/assets/images/github-mark.png" alt="github" width="30px" height="30px"></a>
+* **Peer-to-peer (P2P) File Sharing System** in Java: A P2P file sharing system that can explore network nodes to find desired resources and supports streaming. [Learn More](/peer-to-peer) <br /> *Source code* -> <a href="https://github.com/uwandrew72/p2pFileSharing" title="ptop"><img src="/assets/images/github-mark.png" alt="github" width="30px" height="30px"></a>
 
-* **Rapid Response Search Engine** in C++/C [Learn More](/projects#rapid-response-search-engine)
+* **Rapid Response Search Engine** in C++/C [Learn More](/search-engine)
 
-* **Malware Testing Sandbox** in Python [Learn More](/projects#malware-testing-sandbox)
 
-* **Appointment Reservation System** in Java [Learn More](/projects#appointment-reservation-system)
 
-* **Husky Maps** in Java [Learn More](/projects#husky-maps)
+* **Appointment Reservation System** in Java [Learn More](/appo-reserve)
+
+* **Husky Maps** in Java [Learn More](/husky-map)
 
 ## Skills
 ### Programming languages
