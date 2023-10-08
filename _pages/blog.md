@@ -1,15 +1,7 @@
 ---
-layout: default
-title: Blog
-permalink: /blog
+author_profile: true
+layout: posts
+title: Activities
+permalink: /activities
+classes: wide
 ---
-<h1>Latest Posts</h1>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
