@@ -35,9 +35,11 @@ Relevant Coursework:
 * [CSE 154 Web Programming](https://courses.cs.washington.edu/courses/cse154/23sp/)
 
 ## Work experience
-* [**Hugsi**](https://www.hugsi.com/) *Software Engineer, Internship* : Developing backend APIs using Flutter framework & Dart programming language, building connection with Firebase database, and integrating ChatGPT into recommendation systems [Learn More](/hugsi)
+* [**Hugsi**](https://www.hugsi.com/) - *Software Engineer, Internship* <br />
+Developing backend APIs using Flutter framework & Dart programming language, building connection with Firebase database, and integrating ChatGPT into recommendation systems [Learn More](/hugsi)
 
-* [**BECU**](https://www.becu.org/) *Software Engineer, Capstone Program* : Developed a malware testing sandbox in Python [Learn More](/becu)
+* [**BECU**](https://www.becu.org/) - *Software Engineer, Capstone Program* <br />
+Developed a malware testing sandbox in Python [Learn More](/sandbox)
 
 
 ## Projects
