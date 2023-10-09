@@ -53,7 +53,7 @@ Developed a malware testing sandbox in Python [Learn More](/sandbox)
 
 * **Appointment Reservation System** in Java [Learn More](/appo-reserve)
 
-* **Husky Maps** in Java [Learn More](/husky-map)
+* **Husky Maps** in Java: A web app for mapping the world, searching for places, and navigating around Seattle. [Learn More](/husky-map) <br /> *Source code* -> <a href="https://github.com/sgyli87/HM_Project" title="husky-map"><img src="/assets/images/github-mark.png" alt="husky-map" width="30px" height="30px"></a>
 
 ## Skills
 ### Programming languages
