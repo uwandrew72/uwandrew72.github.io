@@ -13,13 +13,13 @@ Interested in:
 * 📸 Photography
 * 🎮 Video games
 
-Actively seeking full-time software development positions for 2024. If you are interested, please feel free to contact me or check out my resume [here](/assets/files/andrew-zhang-0927.pdf).
+Actively seeking full-time software development positions for 2024. If you are interested, please feel free to contact me or check out my resume [here](/assets/files/andrew_zhang_general_0620.pdf).
 
 ## Education
 <img src="/assets/images/uw.png" alt="uw" width="32px" height="32px">
 [**University of Washington**](https://www.washington.edu/) - *Seattle, US* <br />
 Master of Science in Electrical Engineering <br />
-*September 2022* - *June 2024* <br /><br />
+*September 2022* - *August 2024* <br /><br />
 
 <img src="/assets/images/sjtu.png" alt="sjtu" width="32px" height="32px">
 [**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/) - *Shanghai, China* <br />
@@ -35,6 +35,12 @@ Relevant Coursework:
 * [CSE 154 Web Programming](https://courses.cs.washington.edu/courses/cse154/23sp/)
 
 ## Work experience
+* [**Meituan**](https://en.wikipedia.org/wiki/Meituan) - *Software Engineer, Internship* <br />
+Developed and iterated restaurant ranking lists, Black Pearl Guide's nomination client, and label management platform using Java and Spring Framework.
+
+* [**Tesla**](https://www.tesla.com/) - *Software Engineer, Internship* <br />
+Designed and built a data analysis dashboard using Python Flask for Cell Lab's testing data process and provides data visualization.
+
 * [**Hugsi**](https://www.hugsi.com/) - *Software Engineer, Internship* <br />
 Developing backend APIs using Flutter framework & Dart programming language, building connection with Firebase database, and integrating ChatGPT into recommendation systems [Learn More](/hugsi)
 
